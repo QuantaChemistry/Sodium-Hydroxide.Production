@@ -1,4 +1,6 @@
 # Sodium-Hydroxide.Production
+https://en.wikipedia.org/wiki/Sodium_hydroxide
+
 ## process: electrolysis of aqueous NaCl (brine)
 Use distilled or highly filtered water, add Rock Salt, elecrolyze and then evaporate to get NaHO!
 
